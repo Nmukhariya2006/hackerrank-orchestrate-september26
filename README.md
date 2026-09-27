@@ -184,7 +184,7 @@ Submit the following files as instructed by HackerRank:
 | `output.csv` | Predictions for every row in `dataset/requests.csv` |
 | `chat_transcript` | The `log.txt` described above, showing how you developed or used the system |
 
-Before submitting, confirm:
+Before submitting, confirm:the important part of this hackathon
 
 - `output.csv` has one row per row in `dataset/requests.csv` (250 rows plus the header).
 - `output.csv` has the exact required columns in the exact required order.
